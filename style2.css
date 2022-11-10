@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color: rgb(14, 13, 13);
+}
+body{
+    text-align: center;
+}
+div{
+    text-align: center;
+    background-color: burlywood;
+    border:1px solid rgb(14, 13, 13);
+    border-radius: 5px;
+    width: 30%;
+    margin: auto;
+}
+form{
+    margin:auto;
+    padding: 40px;
+    text-align: center;
+    width: 50%;
+    display: block;
+}
+input{
+    padding: 5px;
+    margin: 5px;
+    width: 100%;
+}
+#submit{
+    background-color: rgb(101, 101, 189);
+    margin-top: 8px;
+    padding: 5px;
+}
+#list{
+    display: block;
+    text-decoration: none;
+    list-style-type: none;
+}
